@@ -15,13 +15,22 @@ ABC公司即為一家採取每週固定費率（100美元）的商品服務提�
 4.	提出具體策略建議，協助ABC公司優化資源配置與行銷策略。
 
 ### 四、分析研究過程
+
+
+
 表一、OLS回歸模型
-Dep. Variable:	WeeksWithService		
-Model:	OLS	R-squared:	0.568
-Method:	Least Squares	Adj. R-squared	0.568
-No. Observations:	51058	F-statistic:	1720.
-Df Residuals:	51018	Prob (F-statistic):	0.00
-Df Model:	39	Log-Likelihood:	-2.3614e+05
+| 標題1  | 標題2  | 
+|--------|--------|
+| Dep. Variable | 	WeeksWithService  | 
+| Model  |OLS | 
+| 	R-squared |			0.568|
+| Method |	Least Squares	Adj.|
+| R-squared|	0.568|
+|No. Observations|	51058|
+|F-statistic|	1720.|
+| Df Residuals|51018|
+|Prob (F-statistic)|	0.00|
+|Df Model:	39	Log-Likelihood:	-2.3614e+05
 Covariance Type:	nonrobust	
 AIC:	4.724e+05	
 BIC:	4.727e+05	
