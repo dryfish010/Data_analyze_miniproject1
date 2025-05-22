@@ -52,7 +52,9 @@ ABC公司即為一家採取每週固定費率（100美元）的商品服務提�
 <p align="center"> 
 圖二、信心水準圖 
 </p>
-![image](https://github.com/user-attachments/assets/95b20247-40a3-4034-96e2-b837bb4784b9)  
+
+![image](https://github.com/user-attachments/assets/95b20247-40a3-4034-96e2-b837bb4784b9) 
+
 <p align="center"> 
 圖三、客戶留存與營收關鍵影響因子  
 </p>
