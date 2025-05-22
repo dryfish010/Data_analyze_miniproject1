@@ -35,9 +35,7 @@ Covariance Type:	nonrobust
 AIC:	4.724e+05	
 BIC:	4.727e+05	
 我們透過普通最小平方法（OLS）進行統計回歸分析，以服務時長（WeeksWithService）作為依變數。根據表一結果，該模型能夠有效解釋約 56.8% 的變異，顯示OLS模型具備良好的解釋力與統計上的顯著性，可作為公司判斷哪些客戶特徵有助於提升留存的參考依據。
-<div align=center>
-<img src="[https://github.com/user-attachments/assets/189d7603-4afd-455c-9bd7-24ddf382b1b5]" />
-</div>
+
 
 ![image](https://github.com/user-attachments/assets/189d7603-4afd-455c-9bd7-24ddf382b1b5)
 <p align="center">  
