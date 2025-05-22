@@ -58,7 +58,7 @@ BIC:	4.727e+05
 ![image](https://github.com/user-attachments/assets/e775dd8f-c168-4c33-abfc-fffc7e158503)
 
  
-**圖四、服務類型對服務時長的影響**
+**圖四、服務類型對服務時長的影響**  
 
 
 
